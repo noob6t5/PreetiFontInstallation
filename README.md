@@ -1,2 +1,4 @@
 Run this command with sudo 
-World wide for Linux ,
+Use this command for installing Preeti font in Linux 
+
+World wide
